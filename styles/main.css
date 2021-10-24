@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: lightgray;
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    background-color: darkgray;
+    margin: 5px;
+    padding: 10px;
+    text-align: center;
+    font-weight: 700;
+}
+
+.container {
+    width: 100%;
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.main {
+
+}
+
+.left{
+
+}
+
+.right{
+
+
+}
+
+
+
+footer {
+    background-color: darkgray;
+    margin: 5px;
+    padding: 10px;
+    text-align: center;
+    font-weight: 700;
+}
