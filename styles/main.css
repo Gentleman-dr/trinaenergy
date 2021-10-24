@@ -27,14 +27,21 @@ header {
 }
 
 .main {
+    background-color: black;
+    color: white
 
 }
 
 .left{
+    background-color:brown;
+    color: black;
+
 
 }
 
 .right{
+    background-color:aliceblue;
+    color: black;
 
 
 }
